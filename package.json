@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "facebook-nodejs-business-sdk": "^23.0.1"
+  }
+}
